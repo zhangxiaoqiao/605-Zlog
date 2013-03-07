@@ -1,5 +1,5 @@
 605-Zlog
 ====
 
-  <p style="color:red">Study hard and make progress every day.<br>
-  This is the first, but isn't the last.</p>
+  <p>Study hard and make progress every day.<br>
+  <h2>This is the first, but isn't the last.</h2></p>
